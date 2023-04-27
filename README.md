@@ -2,7 +2,6 @@ Links of Interest:
 
 [Google](https://google.com)
 
-[Discord](https://discord.com/app)
 
 [Instructions for Discord](https://docs.google.com/document/d/1rD70xPtpvruvXCNjcKWJLGWeBGl1KIxG5EdP6DZvgyo/edit?usp=sharing)
  
