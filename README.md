@@ -1,4 +1,4 @@
-Links of Interest:
+NP = NEED PHONE | NE = NEED EMAIL | NA = NEED ACCOUNT
 
 [Google](https://google.com)
 
@@ -13,7 +13,7 @@ Links of Interest:
 
 [Osu](https://webosu.online)
 
-[Spotify](https://spotify.com/login)
+[Spotify](https://spotify.com/login) (NA)
 
 [ChatGPT](https://chat.openai.com/auth/login)
 
@@ -31,4 +31,4 @@ Links of Interest:
 
 [Emulator](https://gamesfrog.com/)
 
-[Netflix](https://netflix.com/login)
+[Netflix](https://netflix.com/login) (NA)
