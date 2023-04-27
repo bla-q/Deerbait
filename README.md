@@ -31,3 +31,5 @@ Links of Interest:
 [1v1](https://1v1.lol)
 
 [Emulator](https://gamesfrog.com/)
+
+[Netflix](https://netflix.com/login)
