@@ -3,7 +3,7 @@ NP = NEED PHONE | NE = NEED EMAIL | NA = NEED ACCOUNT
 [Google](https://google.com)
 
 
-[Instructions for Discord](https://docs.google.com/document/d/1rD70xPtpvruvXCNjcKWJLGWeBGl1KIxG5EdP6DZvgyo/edit?usp=sharing)
+[Instructions for Discord](https://docs.google.com/document/d/1rD70xPtpvruvXCNjcKWJLGWeBGl1KIxG5EdP6DZvgyo/edit?usp=sharing) (NE)
  
 [Poki](https://poki.com)
 
